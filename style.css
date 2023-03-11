@@ -226,7 +226,7 @@ body#colors{
 }
 
 @media print{
-    #media-query h1{0
+    #media-query h1{
         font-size: 14px;
     }
 }
@@ -324,5 +324,4 @@ html, body{
     background: gray;
     background: radial-gradient(#ddd, #888);
     border-radius: 100%;
-    
 }
